@@ -1,2 +1,5 @@
-0-hello_world file is a script that prints hello world follwed by new line
-1-confused_smiley is a script that displays a confuse smiley
+- 0-hello_world: A script that prints hello world followed by a new line to the standard output
+- 1-confused_smiley: A script that display a confused smiley
+- 2-hellofile : A script that display the content of /etc/passwd file
+- 3-twofiles : A script that display the content of /etc/passwd and /etc/host together
+- 4-lastlines : A script that display the last 10 lines of /etc/passwd
