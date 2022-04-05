@@ -1,2 +1,2 @@
 #!/bin/bash
-ls etc/profile | wc -l
+ls etc/profile.d | wc -l
